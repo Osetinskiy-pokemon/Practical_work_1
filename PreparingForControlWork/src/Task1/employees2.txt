@@ -1,0 +1,9 @@
+4
+Petrov
+29000
+5
+Sidorov
+65000
+6
+Fedotov
+900

@@ -1,0 +1,9 @@
+1
+Pletnev
+22000
+2
+Makarov
+3000
+3
+Ivanov
+22000
